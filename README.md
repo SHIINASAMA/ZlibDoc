@@ -18,3 +18,5 @@
 
 **5.[图片控件 - ZPictureBox](图片.md)**
 
+**6.[进度条 - ZProgressBar](进度条.md)**
+
