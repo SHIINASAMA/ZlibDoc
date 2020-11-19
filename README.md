@@ -21,3 +21,5 @@
 **6.[进度条 - ZProgressBar](进度条.md)**
 
 **7.[菜单 - ZMenu](菜单.md)**
+
+**8.[托盘 - ZNotify](托盘.md)**
